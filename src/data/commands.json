@@ -1,0 +1,75 @@
+{
+    "time_commands": {
+        "กี่โมงแล้ว": "time",
+        "ตอนนี้เวลาเท่าไหร่": "time",
+        "เวลาตอนนี้คือ": "time",
+        "what time": "time",
+        "time now": "time"
+    },
+    "greeting_commands": {
+        "สวัสดี": "greeting",
+        "สวัสดียูกิ": "greeting",
+        "ยูกิสวัสดี": "greeting",
+        "หวัดดี": "greeting",
+        "hello": "greeting",
+        "hi": "greeting",
+        "hey": "greeting"
+    },
+    "identity_commands": {
+        "ชื่ออะไร": "name",
+        "คุณชื่ออะไร": "name",
+        "เธอชื่ออะไร": "name",
+        "คุณคือใคร": "name",
+        "เธอคือใคร": "name",
+        "what is your name": "name",
+        "who are you": "name"
+    },
+    "weather_commands": {
+        "อากาศวันนี้เป็นอย่างไร": "weather",
+        "สภาพอากาศ": "weather",
+        "weather": "weather",
+        "weather today": "weather"
+    },
+    "system_commands": {
+        "shutdown": "shutdown",
+        "shut down": "shutdown",
+        "ปิดระบบ": "shutdown",
+        "exit": "shutdown",
+        "quit": "shutdown"
+    },
+    "web_commands": {
+        "เปิดเว็บ google": "open_google",
+        "open website google": "open_google",
+        "เปิดเว็บไซต์ google": "open_google",
+        "เข้าเว็บ google": "open_google",
+        "เปิดเว็บ youtube": "open_youtube",
+        "open website youtube": "open_youtube",
+        "เปิดเว็บไซต์ youtube": "open_youtube",
+        "เข้าเว็บ youtube": "open_youtube",
+        "เปิดเว็บ facebook": "open_facebook",
+        "open website facebook": "open_facebook",
+        "เปิดเว็บไซต์ facebook": "open_facebook",
+        "เข้าเว็บ facebook": "open_facebook",
+        "เปิดเว็บ instagram": "open_instagram",
+        "open website instagram": "open_instagram",
+        "เปิดเว็บไซต์ instagram": "open_instagram",
+        "เข้าเว็บ instagram": "open_instagram",
+        "เปิดเว็บ chatgpt": "open_chatgpt",
+        "open website chatgpt": "open_chatgpt",
+        "เปิดเว็บไซต์ chatgpt": "open_chatgpt",
+        "เข้าเว็บ chatgpt": "open_chatgpt",
+        "เปิดเว็บ gemini": "open_gemini",
+        "open website gemini": "open_gemini",
+        "เปิดเว็บไซต์ gemini": "open_gemini",
+        "เข้าเว็บ gemini": "open_gemini"
+    },
+    "search_commands": {
+        "ค้นหา": "search",
+        "search": "search",
+        "เสิร์ช": "search",
+        "^หา$": "search",
+        "^หา ": "search",
+        " หา$": "search",
+        " หา ": "search"
+    }
+}

@@ -1,0 +1,120 @@
+# Yuki AI Configuration File
+
+# Voice Settings
+voice:
+  language: "th-TH"
+  tts_language: "th"
+  speech_rate: 1.0
+  volume: 1.0
+  wake_word: "ยูกิ"
+  alternative_wake_words: ["yuki", "ยูกิ"]
+
+# Audio Settings
+audio:
+  sample_rate: 16000
+  chunk_size: 1024
+  format: "mp3"
+  output_directory: "output"
+  signal_sound: "assets/audio/signal.mp3"
+  error_sound: "assets/audio/error.mp3"
+
+# Application Paths (macOS)
+applications:
+  # Development Tools
+  vscode: "/Applications/Visual Studio Code.app/Contents/MacOS/Electron"
+  xcode: "/Applications/Xcode.app/Contents/MacOS/Xcode"
+  terminal: "/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal"
+  
+  # Creative Tools
+  photoshop: "/Applications/Adobe Photoshop 2024/Adobe Photoshop 2024.app/Contents/MacOS/Adobe Photoshop 2024"
+  premiere: "/Applications/Adobe Premiere Pro 2024/Adobe Premiere Pro 2024.app/Contents/MacOS/Adobe Premiere Pro 2024"
+  illustrator: "/Applications/Adobe Illustrator 2024/Adobe Illustrator 2024.app/Contents/MacOS/Adobe Illustrator 2024"
+  figma: "/Applications/Figma.app/Contents/MacOS/Figma"
+  canva: "/Applications/Canva.app/Contents/MacOS/Canva"
+  
+  # Communication
+  slack: "/Applications/Slack.app/Contents/MacOS/Slack"
+  discord: "/Applications/Discord.app/Contents/MacOS/Discord"
+  zoom: "/Applications/zoom.us.app/Contents/MacOS/zoom.us"
+  teams: "/Applications/Microsoft Teams.app/Contents/MacOS/Teams"
+  
+  # Media
+  spotify: "/Applications/Spotify.app/Contents/MacOS/Spotify"
+  vlc: "/Applications/VLC.app/Contents/MacOS/VLC"
+  itunes: "/Applications/Music.app/Contents/MacOS/Music"
+  
+  # Gaming
+  steam: "/Applications/Steam.app/Contents/MacOS/steam_osx"
+  epic: "/Applications/Epic Games Launcher.app/Contents/MacOS/Epic Games Launcher"
+  
+  # Utilities
+  calculator: "/Applications/Calculator.app/Contents/MacOS/Calculator"
+  calendar: "/Applications/Calendar.app/Contents/MacOS/Calendar"
+  mail: "/Applications/Mail.app/Contents/MacOS/Mail"
+  safari: "/Applications/Safari.app/Contents/MacOS/Safari"
+  chrome: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+  firefox: "/Applications/Firefox.app/Contents/MacOS/firefox"
+
+# Web Services
+web_services:
+  google: "https://www.google.com"
+  youtube: "https://www.youtube.com"
+  facebook: "https://www.facebook.com"
+  instagram: "https://www.instagram.com"
+  twitter: "https://twitter.com"
+  linkedin: "https://www.linkedin.com"
+  github: "https://github.com"
+  chatgpt: "https://chat.openai.com"
+  gemini: "https://gemini.google.com/app"
+  meet: "https://meet.google.com"
+  netflix: "https://www.netflix.com"
+  spotify_web: "https://open.spotify.com"
+
+# API Keys (Add your own keys here)
+api_keys:
+  weather_api: "YOUR_WEATHER_API_KEY"
+  openai_api: "YOUR_OPENAI_API_KEY"
+  google_api: "YOUR_GOOGLE_API_KEY"
+
+# Weather Settings
+weather:
+  default_location: "Thailand"
+  units: "metric"
+  api_url: "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline"
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/yuki_ai.log"
+  max_size: "10MB"
+  backup_count: 5
+
+# Performance
+performance:
+  max_response_time: 10.0
+  audio_cache_size: 100
+  command_cache_size: 50
+  enable_parallel_processing: true
+
+# Security
+security:
+  enable_voice_logging: false
+  encrypt_audio_files: false
+  max_command_length: 500
+
+# Development
+development:
+  debug_mode: false
+  enable_hot_reload: false
+  test_mode: false
+
+# LLM Settings
+llm:
+  ollama_url: "http://localhost:11434"
+  model_name: "llama3.2:1b"
+  max_tokens: 500
+  temperature: 0.7
+  context_window: 10
+  enable_llm: true
+  use_cloud_api: false
