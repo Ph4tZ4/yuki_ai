@@ -1,0 +1,725 @@
+2025-08-14 18:25:36,879 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 18:25:36,881 - yuki_ai - INFO - Loaded 7 commands from src/data/commands.json
+2025-08-14 18:25:36,881 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 18:25:36,881 - yuki_ai - INFO - Command processor initialized
+2025-08-14 18:25:36,881 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 18:25:36,881 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 18:25:44,236 - yuki_ai - INFO - Performance - Text-to-speech: 7.35s
+2025-08-14 18:25:44,236 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 18:25:44,366 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 18:25:45,483 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 18:26:02,865 - yuki_ai - INFO - Performance - Speech recognition: 2.86s
+2025-08-14 18:26:02,865 - yuki_ai - INFO - Command from user: ให้ยูกิ
+2025-08-14 18:26:02,866 - yuki_ai - ERROR - Error in text-to-speech: No text to send to TTS API
+2025-08-14 18:26:15,167 - yuki_ai - INFO - Performance - Speech recognition: 1.01s
+2025-08-14 18:26:15,167 - yuki_ai - INFO - Command from user: ยูกิเปิด YouTube
+2025-08-14 18:26:22,174 - yuki_ai - INFO - Performance - Text-to-speech: 7.00s
+2025-08-14 18:26:22,175 - yuki_ai - INFO - AI Response: ไม่เข้าใจคำสั่งเปิดแอปพลิเคชันค่ะ กรุณาลองใหม่อีกครั้ง
+2025-08-14 18:26:34,372 - yuki_ai - INFO - Performance - Speech recognition: 1.92s
+2025-08-14 18:26:34,373 - yuki_ai - INFO - Command from user: ยูกิกี่โมง
+2025-08-14 18:26:41,387 - yuki_ai - INFO - Performance - Text-to-speech: 7.01s
+2025-08-14 18:26:41,387 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:26:53,544 - yuki_ai - INFO - Performance - Speech recognition: 1.86s
+2025-08-14 18:26:53,545 - yuki_ai - INFO - Command from user: ยูกิกี่โมงแล้ว
+2025-08-14 18:27:00,287 - yuki_ai - INFO - Performance - Text-to-speech: 6.74s
+2025-08-14 18:27:00,287 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:27:12,671 - yuki_ai - INFO - Performance - Speech recognition: 2.10s
+2025-08-14 18:27:12,671 - yuki_ai - INFO - Command from user: ยูกิ Shutdown
+2025-08-14 18:27:18,852 - yuki_ai - INFO - Received signal 2
+2025-08-14 18:27:18,852 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 18:27:18,853 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 18:27:23,843 - yuki_ai - INFO - Performance - Text-to-speech: 4.99s
+2025-08-14 18:27:23,844 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 18:27:23,844 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 18:29:35,559 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 18:29:35,561 - yuki_ai - INFO - Loaded 48 commands from src/data/commands.json
+2025-08-14 18:29:35,561 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 18:29:35,561 - yuki_ai - INFO - Command processor initialized
+2025-08-14 18:29:35,561 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 18:29:35,561 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 18:29:42,752 - yuki_ai - INFO - Performance - Text-to-speech: 7.19s
+2025-08-14 18:29:42,752 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 18:29:42,875 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 18:29:43,993 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 18:29:48,146 - yuki_ai - INFO - Performance - Speech recognition: 0.94s
+2025-08-14 18:29:48,146 - yuki_ai - INFO - Command from user: Yuki have
+2025-08-14 18:29:55,157 - yuki_ai - INFO - Performance - Text-to-speech: 7.01s
+2025-08-14 18:29:55,158 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:29:59,020 - yuki_ai - INFO - Performance - Speech recognition: 1.00s
+2025-08-14 18:29:59,020 - yuki_ai - INFO - Command from user: ยูกิ Health
+2025-08-14 18:30:05,856 - yuki_ai - INFO - Performance - Text-to-speech: 6.84s
+2025-08-14 18:30:05,856 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:30:10,919 - yuki_ai - INFO - Performance - Speech recognition: 0.82s
+2025-08-14 18:30:10,920 - yuki_ai - INFO - Command from user: ยูกิ
+2025-08-14 18:30:14,291 - yuki_ai - INFO - Performance - Text-to-speech: 3.37s
+2025-08-14 18:30:14,291 - yuki_ai - INFO - AI Response: ค่ะ ยูกิอยู่นี่ค่ะ
+2025-08-14 18:30:24,879 - yuki_ai - INFO - Performance - Speech recognition: 1.12s
+2025-08-14 18:30:24,880 - yuki_ai - INFO - Command from user: ยูกิเล่นเพลง
+2025-08-14 18:30:29,945 - yuki_ai - INFO - Performance - Text-to-speech: 5.06s
+2025-08-14 18:30:29,945 - yuki_ai - INFO - AI Response: กรุณาระบุเพลงหรือศิลปินที่ต้องการฟังค่ะ
+2025-08-14 18:30:40,392 - yuki_ai - INFO - Performance - Speech recognition: 1.67s
+2025-08-14 18:30:40,393 - yuki_ai - INFO - Command from user: ยูกิเล่นเพลงของลิซ่า
+2025-08-14 18:30:46,724 - yuki_ai - INFO - Performance - Text-to-speech: 3.93s
+2025-08-14 18:30:46,725 - yuki_ai - INFO - AI Response: เล่น ของลิซ่า บน YouTube แล้วค่ะ
+2025-08-14 18:31:05,119 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 18:31:05,123 - yuki_ai - INFO - Loaded 48 commands from src/data/commands.json
+2025-08-14 18:31:05,123 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 18:31:05,123 - yuki_ai - INFO - Command processor initialized
+2025-08-14 18:31:05,123 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 18:31:05,123 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 18:31:12,322 - yuki_ai - INFO - Performance - Text-to-speech: 7.20s
+2025-08-14 18:31:12,322 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 18:31:12,449 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 18:31:13,568 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 18:31:16,725 - yuki_ai - INFO - Performance - Speech recognition: 0.63s
+2025-08-14 18:31:16,725 - yuki_ai - INFO - Command from user: ยูกิ
+2025-08-14 18:31:19,974 - yuki_ai - INFO - Performance - Text-to-speech: 3.25s
+2025-08-14 18:31:19,974 - yuki_ai - INFO - AI Response: ค่ะ ยูกิอยู่นี่ค่ะ
+2025-08-14 18:31:24,661 - yuki_ai - INFO - Performance - Speech recognition: 0.81s
+2025-08-14 18:31:24,661 - yuki_ai - INFO - Command from user: ยูกิ
+2025-08-14 18:31:27,898 - yuki_ai - INFO - Performance - Text-to-speech: 3.24s
+2025-08-14 18:31:27,898 - yuki_ai - INFO - AI Response: เรียกใช้ยูกิได้เลยค่ะ
+2025-08-14 18:32:22,207 - yuki_ai - INFO - Received signal 2
+2025-08-14 18:32:22,208 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 18:32:22,208 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 18:32:27,317 - yuki_ai - INFO - Performance - Text-to-speech: 5.11s
+2025-08-14 18:32:27,317 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 18:32:27,317 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 18:32:48,402 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 18:32:48,405 - yuki_ai - INFO - Loaded 48 commands from src/data/commands.json
+2025-08-14 18:32:48,405 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 18:32:48,405 - yuki_ai - INFO - Command processor initialized
+2025-08-14 18:32:48,405 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 18:32:48,405 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 18:32:55,788 - yuki_ai - INFO - Performance - Text-to-speech: 7.38s
+2025-08-14 18:32:55,789 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 18:32:55,928 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 18:32:57,042 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 18:33:07,232 - yuki_ai - INFO - Performance - Speech recognition: 0.72s
+2025-08-14 18:33:07,232 - yuki_ai - INFO - Command from user: ฟอร์เมอร์
+2025-08-14 18:33:07,234 - yuki_ai - ERROR - Error in text-to-speech: No text to send to TTS API
+2025-08-14 18:33:25,643 - yuki_ai - INFO - Performance - Speech recognition: 2.32s
+2025-08-14 18:33:25,644 - yuki_ai - INFO - Command from user: ยูกิดูวิดีโอ Teaser Transformers
+2025-08-14 18:33:33,200 - yuki_ai - INFO - Performance - Text-to-speech: 5.64s
+2025-08-14 18:33:33,202 - yuki_ai - INFO - AI Response: เล่น วิดีโอ teaser transformers บน YouTube แล้วค่ะ
+2025-08-14 18:34:13,062 - yuki_ai - INFO - Performance - Speech recognition: 1.09s
+2025-08-14 18:34:13,063 - yuki_ai - INFO - Command from user: Siri เปิด Apple Music
+2025-08-14 18:34:13,064 - yuki_ai - ERROR - Error in text-to-speech: No text to send to TTS API
+2025-08-14 18:34:27,555 - yuki_ai - INFO - Performance - Speech recognition: 1.26s
+2025-08-14 18:34:27,555 - yuki_ai - INFO - Command from user: ยูกิเปิด Apple Music
+2025-08-14 18:34:33,015 - yuki_ai - INFO - Performance - Text-to-speech: 5.45s
+2025-08-14 18:34:33,015 - yuki_ai - INFO - AI Response: ไม่เข้าใจคำสั่งเว็บค่ะ กรุณาลองใหม่อีกครั้ง
+2025-08-14 18:36:06,117 - yuki_ai - INFO - Performance - Speech recognition: 0.92s
+2025-08-14 18:36:06,117 - yuki_ai - INFO - Command from user: ยูกิกี่โมงแล้ว
+2025-08-14 18:36:13,017 - yuki_ai - INFO - Performance - Text-to-speech: 6.90s
+2025-08-14 18:36:13,017 - yuki_ai - INFO - AI Response: ขณะนี้เวลา 18 นาฬิกา 36 นาที 6 วินาที
+2025-08-14 18:36:22,263 - yuki_ai - INFO - Performance - Speech recognition: 1.06s
+2025-08-14 18:36:22,263 - yuki_ai - INFO - Command from user: ยูกิวันนี้วันอะไร
+2025-08-14 18:36:29,100 - yuki_ai - INFO - Performance - Text-to-speech: 6.84s
+2025-08-14 18:36:29,100 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:36:58,544 - yuki_ai - INFO - Performance - Speech recognition: 1.03s
+2025-08-14 18:36:58,545 - yuki_ai - INFO - Command from user: ยูกิเปิดเว็บ Apple
+2025-08-14 18:37:01,857 - yuki_ai - INFO - Performance - Text-to-speech: 3.19s
+2025-08-14 18:37:01,857 - yuki_ai - INFO - AI Response: เปิดเว็บไซต์ apple แล้วค่ะ
+2025-08-14 18:37:46,717 - yuki_ai - INFO - Performance - Speech recognition: 1.16s
+2025-08-14 18:37:46,717 - yuki_ai - INFO - Command from user: ยูกิเปิด Terminal
+2025-08-14 18:37:52,234 - yuki_ai - INFO - Performance - Text-to-speech: 5.52s
+2025-08-14 18:37:52,234 - yuki_ai - INFO - AI Response: ไม่เข้าใจคำสั่งเว็บค่ะ กรุณาลองใหม่อีกครั้ง
+2025-08-14 18:38:01,081 - yuki_ai - INFO - Performance - Speech recognition: 0.87s
+2025-08-14 18:38:01,082 - yuki_ai - INFO - Command from user: ยูกิเปิดซูม
+2025-08-14 18:38:06,551 - yuki_ai - INFO - Performance - Text-to-speech: 5.47s
+2025-08-14 18:38:06,551 - yuki_ai - INFO - AI Response: ไม่เข้าใจคำสั่งเว็บค่ะ กรุณาลองใหม่อีกครั้ง
+2025-08-14 18:38:55,007 - yuki_ai - INFO - Received signal 2
+2025-08-14 18:38:55,007 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 18:38:55,007 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 18:39:00,184 - yuki_ai - INFO - Performance - Text-to-speech: 5.18s
+2025-08-14 18:39:00,184 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 18:39:00,186 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 18:39:01,869 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 18:39:01,870 - yuki_ai - INFO - Loaded 48 commands from src/data/commands.json
+2025-08-14 18:39:01,871 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 18:39:01,871 - yuki_ai - INFO - Command processor initialized
+2025-08-14 18:39:01,871 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 18:39:01,871 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 18:39:08,870 - yuki_ai - INFO - Performance - Text-to-speech: 7.00s
+2025-08-14 18:39:08,870 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 18:39:09,004 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 18:39:10,119 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 18:39:25,758 - yuki_ai - INFO - Performance - Speech recognition: 1.51s
+2025-08-14 18:39:25,758 - yuki_ai - INFO - Command from user: ยูกิเปิด App mail
+2025-08-14 18:39:31,163 - yuki_ai - INFO - Performance - Text-to-speech: 5.40s
+2025-08-14 18:39:31,163 - yuki_ai - INFO - AI Response: ไม่เข้าใจคำสั่งเว็บค่ะ กรุณาลองใหม่อีกครั้ง
+2025-08-14 18:39:44,339 - yuki_ai - INFO - Performance - Speech recognition: 1.97s
+2025-08-14 18:39:44,339 - yuki_ai - INFO - Command from user: ยูกิ Open up mail
+2025-08-14 18:39:49,719 - yuki_ai - INFO - Performance - Text-to-speech: 5.38s
+2025-08-14 18:39:49,719 - yuki_ai - INFO - AI Response: ไม่เข้าใจคำสั่งเว็บค่ะ กรุณาลองใหม่อีกครั้ง
+2025-08-14 18:39:58,287 - yuki_ai - INFO - Performance - Speech recognition: 1.82s
+2025-08-14 18:39:58,288 - yuki_ai - INFO - Command from user: Suzuki Open App mail
+2025-08-14 18:39:58,290 - yuki_ai - ERROR - Error in text-to-speech: No text to send to TTS API
+2025-08-14 18:40:20,383 - yuki_ai - INFO - Performance - Speech recognition: 1.81s
+2025-08-14 18:40:20,383 - yuki_ai - INFO - Command from user: ยูกิ Open
+2025-08-14 18:40:26,007 - yuki_ai - INFO - Performance - Text-to-speech: 5.62s
+2025-08-14 18:40:26,007 - yuki_ai - INFO - AI Response: ไม่เข้าใจคำสั่งเว็บค่ะ กรุณาลองใหม่อีกครั้ง
+2025-08-14 18:40:33,732 - yuki_ai - INFO - Performance - Speech recognition: 1.67s
+2025-08-14 18:40:33,733 - yuki_ai - INFO - Command from user: ยูกิ Open App Zoom
+2025-08-14 18:40:39,136 - yuki_ai - INFO - Performance - Text-to-speech: 5.40s
+2025-08-14 18:40:39,136 - yuki_ai - INFO - AI Response: ไม่เข้าใจคำสั่งเว็บค่ะ กรุณาลองใหม่อีกครั้ง
+2025-08-14 18:40:52,417 - yuki_ai - INFO - Performance - Speech recognition: 1.10s
+2025-08-14 18:40:52,418 - yuki_ai - INFO - Command from user: ยูกิ Shutdown
+2025-08-14 18:40:52,419 - yuki_ai - INFO - Shutdown command received
+2025-08-14 18:40:52,419 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 18:40:52,419 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 18:40:57,520 - yuki_ai - INFO - Performance - Text-to-speech: 5.10s
+2025-08-14 18:40:57,521 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 18:40:57,522 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 18:45:33,474 - yuki_ai - INFO - Loaded 56 commands from src/data/commands.json
+2025-08-14 18:45:33,474 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 18:45:33,475 - yuki_ai - INFO - Command processor initialized
+2025-08-14 18:45:38,767 - yuki_ai - INFO - Shutdown command received
+2025-08-14 18:45:38,767 - yuki_ai - INFO - Shutdown command received
+2025-08-14 18:46:59,763 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 18:46:59,766 - yuki_ai - INFO - Loaded 56 commands from src/data/commands.json
+2025-08-14 18:46:59,766 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 18:46:59,766 - yuki_ai - INFO - Command processor initialized
+2025-08-14 18:46:59,766 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 18:46:59,766 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 18:47:06,954 - yuki_ai - INFO - Performance - Text-to-speech: 7.19s
+2025-08-14 18:47:06,954 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 18:47:07,091 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 18:47:08,207 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 18:47:16,967 - yuki_ai - INFO - Performance - Speech recognition: 1.77s
+2025-08-14 18:47:16,967 - yuki_ai - INFO - Command from user: ยูกิเปิด Application Terminal
+2025-08-14 18:47:24,216 - yuki_ai - INFO - Performance - Text-to-speech: 7.24s
+2025-08-14 18:47:24,217 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:47:35,369 - yuki_ai - INFO - Performance - Speech recognition: 2.09s
+2025-08-14 18:47:35,369 - yuki_ai - INFO - Command from user: ยูกิเปิด Application Terminal
+2025-08-14 18:47:42,327 - yuki_ai - INFO - Performance - Text-to-speech: 6.96s
+2025-08-14 18:47:42,328 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:48:00,627 - yuki_ai - INFO - Received signal 2
+2025-08-14 18:48:00,627 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 18:48:00,627 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 18:48:05,701 - yuki_ai - INFO - Performance - Text-to-speech: 5.07s
+2025-08-14 18:48:05,701 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 18:48:05,702 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 18:48:29,986 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 18:48:29,986 - yuki_ai - INFO - Loaded 56 commands from src/data/commands.json
+2025-08-14 18:48:29,986 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 18:48:29,986 - yuki_ai - INFO - Command processor initialized
+2025-08-14 18:48:29,986 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 18:48:29,987 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 18:48:37,099 - yuki_ai - INFO - Performance - Text-to-speech: 7.11s
+2025-08-14 18:48:37,099 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 18:48:37,238 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 18:48:38,359 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 18:48:47,217 - yuki_ai - INFO - Performance - Speech recognition: 1.72s
+2025-08-14 18:48:47,218 - yuki_ai - INFO - Command from user: ยูกิเปิด Application Terminal
+2025-08-14 18:48:54,072 - yuki_ai - INFO - Performance - Text-to-speech: 6.85s
+2025-08-14 18:48:54,072 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:49:05,816 - yuki_ai - INFO - Performance - Speech recognition: 1.80s
+2025-08-14 18:49:05,817 - yuki_ai - INFO - Command from user: ยูกิ Open Application Terminal
+2025-08-14 18:49:09,348 - yuki_ai - INFO - Performance - Text-to-speech: 3.52s
+2025-08-14 18:49:09,349 - yuki_ai - INFO - AI Response: ไม่พบ terminal ในระบบค่ะ
+2025-08-14 18:49:34,629 - yuki_ai - INFO - Performance - Speech recognition: 8.25s
+2025-08-14 18:49:34,629 - yuki_ai - INFO - Command from user: ยูกิ Open Application Safari
+2025-08-14 18:49:38,069 - yuki_ai - INFO - Performance - Text-to-speech: 3.43s
+2025-08-14 18:49:38,069 - yuki_ai - INFO - AI Response: เปิด safari แล้วค่ะ
+2025-08-14 18:50:06,646 - yuki_ai - INFO - Performance - Speech recognition: 2.04s
+2025-08-14 18:50:06,646 - yuki_ai - INFO - Command from user: ยูกิเปิด Application Safari
+2025-08-14 18:50:15,038 - yuki_ai - INFO - Performance - Text-to-speech: 8.39s
+2025-08-14 18:50:15,039 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:50:26,518 - yuki_ai - INFO - Performance - Speech recognition: 1.20s
+2025-08-14 18:50:26,518 - yuki_ai - INFO - Command from user: ยูกิเปิด App Safari
+2025-08-14 18:50:34,662 - yuki_ai - INFO - Performance - Text-to-speech: 8.14s
+2025-08-14 18:50:34,663 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:50:43,449 - yuki_ai - INFO - Performance - Speech recognition: 1.54s
+2025-08-14 18:50:43,449 - yuki_ai - INFO - Command from user: ยูกิ Open up Zoom
+2025-08-14 18:50:50,276 - yuki_ai - INFO - Performance - Text-to-speech: 6.83s
+2025-08-14 18:50:50,277 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:50:58,831 - yuki_ai - INFO - Performance - Speech recognition: 2.02s
+2025-08-14 18:50:58,832 - yuki_ai - INFO - Command from user: ยูกิ Open up Zoom
+2025-08-14 18:51:05,661 - yuki_ai - INFO - Performance - Text-to-speech: 6.83s
+2025-08-14 18:51:05,662 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 18:51:12,788 - yuki_ai - INFO - Performance - Speech recognition: 1.38s
+2025-08-14 18:51:12,789 - yuki_ai - INFO - Command from user: shopee Open Application Novotel
+2025-08-14 18:51:12,791 - yuki_ai - ERROR - Error in text-to-speech: No text to send to TTS API
+2025-08-14 18:51:25,510 - yuki_ai - INFO - Performance - Speech recognition: 2.19s
+2025-08-14 18:51:25,511 - yuki_ai - INFO - Command from user: ยูกิ Open Application
+2025-08-14 18:51:32,535 - yuki_ai - INFO - Performance - Text-to-speech: 7.02s
+2025-08-14 18:51:32,535 - yuki_ai - INFO - AI Response: ไม่เข้าใจคำสั่งเปิดแอปพลิเคชันค่ะ กรุณาลองใหม่อีกครั้ง
+2025-08-14 18:52:36,706 - yuki_ai - INFO - Received signal 2
+2025-08-14 18:52:36,706 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 18:52:36,706 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 18:52:41,720 - yuki_ai - INFO - Performance - Text-to-speech: 5.01s
+2025-08-14 18:52:41,720 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 18:52:41,721 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 18:53:17,326 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 18:53:17,326 - yuki_ai - INFO - Loaded 56 commands from src/data/commands.json
+2025-08-14 18:53:17,327 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 18:53:17,327 - yuki_ai - INFO - Command processor initialized
+2025-08-14 18:53:17,327 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 18:53:17,327 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 18:53:24,329 - yuki_ai - INFO - Performance - Text-to-speech: 7.00s
+2025-08-14 18:53:24,329 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 18:53:24,457 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 18:53:25,573 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 18:53:33,511 - yuki_ai - INFO - Performance - Speech recognition: 1.56s
+2025-08-14 18:53:33,512 - yuki_ai - INFO - Command from user: ยูกิ Open Application App Store
+2025-08-14 18:53:40,593 - yuki_ai - INFO - Performance - Text-to-speech: 7.07s
+2025-08-14 18:53:40,593 - yuki_ai - INFO - AI Response: ไม่เข้าใจคำสั่งเปิดแอปพลิเคชันค่ะ กรุณาลองใหม่อีกครั้ง
+2025-08-14 18:54:20,421 - yuki_ai - INFO - Performance - Speech recognition: 0.97s
+2025-08-14 18:54:20,422 - yuki_ai - INFO - Command from user: ยูกิ Shutdown
+2025-08-14 18:54:20,423 - yuki_ai - INFO - Shutdown command received
+2025-08-14 18:54:20,423 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 18:54:20,423 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 18:54:25,465 - yuki_ai - INFO - Performance - Text-to-speech: 5.04s
+2025-08-14 18:54:25,466 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 18:54:25,468 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 19:00:51,978 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 19:00:51,982 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 19:00:51,982 - yuki_ai - INFO - Loaded 56 commands from src/data/commands.json
+2025-08-14 19:00:51,983 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 19:00:51,983 - yuki_ai - INFO - Command processor initialized
+2025-08-14 19:00:51,983 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 19:00:51,983 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 19:00:59,146 - yuki_ai - INFO - Performance - Text-to-speech: 7.16s
+2025-08-14 19:00:59,147 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 19:00:59,288 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 19:01:00,402 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 19:01:15,655 - yuki_ai - INFO - Performance - Speech recognition: 4.94s
+2025-08-14 19:01:15,656 - yuki_ai - INFO - Command from user: ยูกิกี่โมงแล้ว
+2025-08-14 19:01:21,848 - yuki_ai - INFO - Performance - Text-to-speech: 6.19s
+2025-08-14 19:01:21,849 - yuki_ai - INFO - AI Response: ขณะนี้เวลา 19 นาฬิกา 1 นาที 15 วินาที
+2025-08-14 19:01:31,470 - yuki_ai - INFO - Performance - Speech recognition: 1.40s
+2025-08-14 19:01:31,471 - yuki_ai - INFO - Command from user: ยูกิเล่าเรื่องประเทศไทยให้ฟัง
+2025-08-14 19:01:31,483 - yuki_ai - WARNING - Ollama not available: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/tags (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10f4d6970>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-08-14 19:01:38,587 - yuki_ai - INFO - Performance - Text-to-speech: 7.10s
+2025-08-14 19:01:38,587 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 19:02:03,358 - yuki_ai - INFO - Performance - Speech recognition: 1.07s
+2025-08-14 19:02:03,359 - yuki_ai - INFO - Command from user: ยูกิ Shutdown
+2025-08-14 19:02:03,359 - yuki_ai - INFO - Shutdown command received
+2025-08-14 19:02:03,359 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 19:02:03,359 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 19:02:08,477 - yuki_ai - INFO - Performance - Text-to-speech: 5.12s
+2025-08-14 19:02:08,477 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 19:02:08,478 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 19:41:20,851 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 19:42:32,072 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 19:43:00,324 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 19:43:00,327 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 19:43:00,328 - yuki_ai - INFO - Loaded 56 commands from src/data/commands.json
+2025-08-14 19:43:00,328 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 19:43:00,328 - yuki_ai - INFO - Command processor initialized
+2025-08-14 19:43:00,328 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 19:43:00,328 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 19:43:07,395 - yuki_ai - INFO - Performance - Text-to-speech: 7.07s
+2025-08-14 19:43:07,395 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 19:43:07,531 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 19:43:08,648 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 19:43:16,676 - yuki_ai - INFO - Received signal 2
+2025-08-14 19:43:16,678 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 19:43:16,678 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 19:43:21,702 - yuki_ai - INFO - Performance - Text-to-speech: 5.02s
+2025-08-14 19:43:21,703 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 19:43:21,703 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 19:54:17,810 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 19:54:17,815 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 19:54:17,816 - yuki_ai - INFO - Loaded 56 commands from src/data/commands.json
+2025-08-14 19:54:17,816 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 19:54:17,816 - yuki_ai - INFO - Command processor initialized
+2025-08-14 19:54:17,816 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 19:54:17,816 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 19:54:24,923 - yuki_ai - INFO - Performance - Text-to-speech: 7.11s
+2025-08-14 19:54:24,924 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 19:54:25,059 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 19:54:26,179 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 19:54:33,111 - yuki_ai - INFO - Performance - Speech recognition: 1.03s
+2025-08-14 19:54:33,111 - yuki_ai - INFO - Command from user: ยูกิสวัสดี
+2025-08-14 19:54:37,398 - yuki_ai - INFO - Performance - Text-to-speech: 4.29s
+2025-08-14 19:54:37,399 - yuki_ai - INFO - AI Response: สวัสดีค่ะ มีอะไรให้ช่วยไหมคะ?
+2025-08-14 19:54:45,053 - yuki_ai - INFO - Performance - Speech recognition: 1.16s
+2025-08-14 19:54:45,053 - yuki_ai - INFO - Command from user: ยูกิคุณช่วยอะไรได้บ้าง
+2025-08-14 19:54:52,053 - yuki_ai - INFO - Performance - Text-to-speech: 6.99s
+2025-08-14 19:54:52,054 - yuki_ai - INFO - AI Response: ขอโทษค่ะ ฉันไม่เข้าใจที่คุณพูด กรุณาลองใหม่อีกครั้งค่ะ
+2025-08-14 19:55:27,828 - yuki_ai - INFO - Received signal 2
+2025-08-14 19:55:27,828 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 19:55:27,828 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 19:55:32,902 - yuki_ai - INFO - Performance - Text-to-speech: 5.07s
+2025-08-14 19:55:32,902 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 19:55:32,902 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 19:57:50,147 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 19:57:59,438 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 19:59:09,920 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 19:59:09,925 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 19:59:09,926 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 19:59:09,926 - yuki_ai - INFO - Loaded 56 commands from src/data/commands.json
+2025-08-14 19:59:09,927 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 19:59:09,927 - yuki_ai - INFO - Command processor initialized
+2025-08-14 19:59:09,927 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 19:59:09,927 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 19:59:17,053 - yuki_ai - INFO - Performance - Text-to-speech: 7.13s
+2025-08-14 19:59:17,053 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 19:59:17,192 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 19:59:18,309 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 19:59:42,192 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 19:59:42,192 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 19:59:42,193 - yuki_ai - INFO - Loaded 56 commands from src/data/commands.json
+2025-08-14 19:59:42,193 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 19:59:42,193 - yuki_ai - INFO - Command processor initialized
+2025-08-14 19:59:42,194 - yuki_ai - INFO - Using LLM for command: คุณช่วยอะไรได้บ้าง
+2025-08-14 19:59:42,203 - yuki_ai - INFO - LLM Conversation - User: คุณช่วยอะไรได้บ้าง
+2025-08-14 19:59:42,203 - yuki_ai - INFO - LLM Conversation - Yuki: ยูกิสามารถช่วยคุณได้หลายอย่างค่ะ เช่น เปิดแอปพลิเคชัน เปิดเว็บไซต์ เล่นเพลง หรือตอบคำถามต่างๆ
+2025-08-14 19:59:42,203 - yuki_ai - INFO - Using LLM for command: เล่าเรื่องประเทศไทยให้ฟัง
+2025-08-14 19:59:42,206 - yuki_ai - INFO - LLM Conversation - User: เล่าเรื่องประเทศไทยให้ฟัง
+2025-08-14 19:59:42,206 - yuki_ai - INFO - LLM Conversation - Yuki: ประเทศไทยเป็นประเทศที่สวยงามในเอเชียตะวันออกเฉียงใต้ มีวัฒนธรรมที่หลากหลาย อาหารอร่อย และผู้คนเป็นมิตรค่ะ
+2025-08-14 19:59:42,206 - yuki_ai - INFO - Using LLM for command: ขอบคุณ
+2025-08-14 19:59:42,209 - yuki_ai - INFO - LLM Conversation - User: ขอบคุณ
+2025-08-14 19:59:42,209 - yuki_ai - INFO - LLM Conversation - Yuki: ยินดีค่ะ ยูกิยินดีช่วยเหลือคุณเสมอ!
+2025-08-14 20:00:37,638 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:00:37,638 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:00:37,638 - yuki_ai - INFO - Loaded 56 commands from src/data/commands.json
+2025-08-14 20:00:37,639 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:00:37,639 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:00:37,640 - yuki_ai - INFO - Using LLM for command: คุณช่วยอะไรได้บ้าง
+2025-08-14 20:00:37,648 - yuki_ai - INFO - LLM Conversation - User: คุณช่วยอะไรได้บ้าง
+2025-08-14 20:00:37,648 - yuki_ai - INFO - LLM Conversation - Yuki: ยูกิสามารถช่วยคุณได้หลายอย่างค่ะ เช่น เปิดแอปพลิเคชัน เปิดเว็บไซต์ เล่นเพลง หรือตอบคำถามต่างๆ
+2025-08-14 20:00:37,648 - yuki_ai - INFO - Using LLM for command: เล่าเรื่องประเทศไทยให้ฟัง
+2025-08-14 20:00:37,651 - yuki_ai - INFO - LLM Conversation - User: เล่าเรื่องประเทศไทยให้ฟัง
+2025-08-14 20:00:37,651 - yuki_ai - INFO - LLM Conversation - Yuki: ประเทศไทยเป็นประเทศที่สวยงามในเอเชียตะวันออกเฉียงใต้ มีวัฒนธรรมที่หลากหลาย อาหารอร่อย และผู้คนเป็นมิตรค่ะ
+2025-08-14 20:00:37,651 - yuki_ai - INFO - Using LLM for command: ขอบคุณ
+2025-08-14 20:00:37,653 - yuki_ai - INFO - LLM Conversation - User: ขอบคุณ
+2025-08-14 20:00:37,653 - yuki_ai - INFO - LLM Conversation - Yuki: ยินดีค่ะ ยูกิยินดีช่วยเหลือคุณเสมอ!
+2025-08-14 20:00:56,421 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:00:56,422 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:00:56,422 - yuki_ai - INFO - Loaded 56 commands from src/data/commands.json
+2025-08-14 20:00:56,422 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:00:56,422 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:00:56,424 - yuki_ai - INFO - Command 'แนะนำอาหารไทยอร่อยๆ' matched pattern 'หา' with action 'search'
+2025-08-14 20:01:50,213 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:01:50,213 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:01:50,213 - yuki_ai - INFO - Loaded 59 commands from src/data/commands.json
+2025-08-14 20:01:50,214 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:01:50,214 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:01:50,215 - yuki_ai - INFO - Using LLM for command: แนะนำอาหารไทยอร่อยๆ
+2025-08-14 20:01:50,223 - yuki_ai - INFO - LLM Conversation - User: แนะนำอาหารไทยอร่อยๆ
+2025-08-14 20:01:50,223 - yuki_ai - INFO - LLM Conversation - Yuki: ประเทศไทยเป็นประเทศที่สวยงามในเอเชียตะวันออกเฉียงใต้ มีวัฒนธรรมที่หลากหลาย อาหารอร่อย และผู้คนเป็นมิตรค่ะ
+2025-08-14 20:02:16,306 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:02:16,306 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:02:16,306 - yuki_ai - INFO - Loaded 59 commands from src/data/commands.json
+2025-08-14 20:02:16,307 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:02:16,307 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:02:16,308 - yuki_ai - INFO - Using LLM for command: แนะนำอาหารไทยอร่อยๆ
+2025-08-14 20:02:16,317 - yuki_ai - INFO - LLM Conversation - User: แนะนำอาหารไทยอร่อยๆ
+2025-08-14 20:02:16,317 - yuki_ai - INFO - LLM Conversation - Yuki: ประเทศไทยเป็นประเทศที่สวยงามในเอเชียตะวันออกเฉียงใต้ มีวัฒนธรรมที่หลากหลาย อาหารอร่อย และผู้คนเป็นมิตรค่ะ
+2025-08-14 20:02:41,923 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:02:41,923 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:02:41,924 - yuki_ai - INFO - Loaded 59 commands from src/data/commands.json
+2025-08-14 20:02:41,924 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:02:41,924 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:02:41,926 - yuki_ai - INFO - Using LLM for command: แนะนำอาหารไทยอร่อยๆ
+2025-08-14 20:02:41,934 - yuki_ai - INFO - LLM Conversation - User: แนะนำอาหารไทยอร่อยๆ
+2025-08-14 20:02:41,934 - yuki_ai - INFO - LLM Conversation - Yuki: อาหารไทยมีหลากหลายและอร่อยมากค่ะ เช่น ต้มยำกุ้ง ผัดไทย ส้มตำ แกงเขียวหวาน ลาบ น้ำพริก และข้าวผัดกุ้ง
+2025-08-14 20:02:51,983 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:02:51,984 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:02:51,984 - yuki_ai - INFO - Loaded 59 commands from src/data/commands.json
+2025-08-14 20:02:51,984 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:02:51,984 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:02:51,986 - yuki_ai - INFO - Using LLM for command: คุณช่วยอะไรได้บ้าง
+2025-08-14 20:02:51,993 - yuki_ai - INFO - LLM Conversation - User: คุณช่วยอะไรได้บ้าง
+2025-08-14 20:02:51,993 - yuki_ai - INFO - LLM Conversation - Yuki: ยูกิสามารถช่วยคุณได้หลายอย่างค่ะ เช่น เปิดแอปพลิเคชัน เปิดเว็บไซต์ เล่นเพลง หรือตอบคำถามต่างๆ
+2025-08-14 20:02:51,993 - yuki_ai - INFO - Using LLM for command: เล่าเรื่องประเทศไทยให้ฟัง
+2025-08-14 20:02:51,995 - yuki_ai - INFO - LLM Conversation - User: เล่าเรื่องประเทศไทยให้ฟัง
+2025-08-14 20:02:51,995 - yuki_ai - INFO - LLM Conversation - Yuki: ประเทศไทยเป็นประเทศที่สวยงามในเอเชียตะวันออกเฉียงใต้ มีวัฒนธรรมที่หลากหลาย อาหารอร่อย และผู้คนเป็นมิตรค่ะ
+2025-08-14 20:02:51,996 - yuki_ai - INFO - Using LLM for command: แนะนำอาหารไทยอร่อยๆ
+2025-08-14 20:02:51,998 - yuki_ai - INFO - LLM Conversation - User: แนะนำอาหารไทยอร่อยๆ
+2025-08-14 20:02:51,998 - yuki_ai - INFO - LLM Conversation - Yuki: อาหารไทยมีหลากหลายและอร่อยมากค่ะ เช่น ต้มยำกุ้ง ผัดไทย ส้มตำ แกงเขียวหวาน ลาบ น้ำพริก และข้าวผัดกุ้ง
+2025-08-14 20:02:51,998 - yuki_ai - INFO - Command 'สวัสดี' matched pattern 'สวัสดี' with action 'greeting'
+2025-08-14 20:02:51,998 - yuki_ai - INFO - Using LLM for command: ขอบคุณ
+2025-08-14 20:02:52,000 - yuki_ai - INFO - LLM Conversation - User: ขอบคุณ
+2025-08-14 20:02:52,000 - yuki_ai - INFO - LLM Conversation - Yuki: ยินดีค่ะ ยูกิยินดีช่วยเหลือคุณเสมอ!
+2025-08-14 20:03:43,514 - yuki_ai - INFO - Performance - Speech recognition: 1.60s
+2025-08-14 20:03:43,516 - yuki_ai - INFO - Command from user: ยูกิสวัสดี
+2025-08-14 20:03:47,675 - yuki_ai - INFO - Performance - Text-to-speech: 4.16s
+2025-08-14 20:03:47,676 - yuki_ai - INFO - AI Response: สวัสดีค่ะ มีอะไรให้ช่วยไหมคะ?
+2025-08-14 20:03:55,565 - yuki_ai - INFO - Performance - Speech recognition: 1.12s
+2025-08-14 20:03:55,566 - yuki_ai - INFO - Command from user: ยูกิคุณช่วยอะไรได้บ้าง
+2025-08-14 20:03:55,569 - yuki_ai - INFO - Using LLM for command: คุณช่วยอะไรได้บ้าง
+2025-08-14 20:03:55,579 - yuki_ai - INFO - LLM Conversation - User: คุณช่วยอะไรได้บ้าง
+2025-08-14 20:03:55,579 - yuki_ai - INFO - LLM Conversation - Yuki: ยูกิสามารถช่วยคุณได้หลายอย่างค่ะ เช่น เปิดแอปพลิเคชัน เปิดเว็บไซต์ เล่นเพลง หรือตอบคำถามต่างๆ
+2025-08-14 20:04:06,876 - yuki_ai - INFO - Performance - Text-to-speech: 11.30s
+2025-08-14 20:04:06,876 - yuki_ai - INFO - AI Response: ยูกิสามารถช่วยคุณได้หลายอย่างค่ะ เช่น เปิดแอปพลิเคชัน เปิดเว็บไซต์ เล่นเพลง หรือตอบคำถามต่างๆ
+2025-08-14 20:04:18,184 - yuki_ai - INFO - Performance - Speech recognition: 1.55s
+2025-08-14 20:04:18,185 - yuki_ai - INFO - Command from user: ยูกิเล่าเรื่องประเทศไทยให้ฟังหน่อย
+2025-08-14 20:04:18,186 - yuki_ai - INFO - Using LLM for command: เล่าเรื่องประเทศไทยให้ฟังหน่อย
+2025-08-14 20:04:18,192 - yuki_ai - INFO - LLM Conversation - User: เล่าเรื่องประเทศไทยให้ฟังหน่อย
+2025-08-14 20:04:18,192 - yuki_ai - INFO - LLM Conversation - Yuki: ประเทศไทยเป็นประเทศที่สวยงามในเอเชียตะวันออกเฉียงใต้ มีวัฒนธรรมที่หลากหลาย อาหารอร่อย และผู้คนเป็นมิตรค่ะ
+2025-08-14 20:04:30,946 - yuki_ai - INFO - Performance - Text-to-speech: 12.75s
+2025-08-14 20:04:30,946 - yuki_ai - INFO - AI Response: ประเทศไทยเป็นประเทศที่สวยงามในเอเชียตะวันออกเฉียงใต้ มีวัฒนธรรมที่หลากหลาย อาหารอร่อย และผู้คนเป็นมิตรค่ะ
+2025-08-14 20:04:39,193 - yuki_ai - INFO - Performance - Speech recognition: 1.71s
+2025-08-14 20:04:39,194 - yuki_ai - INFO - Command from user: ยูกิขอบคุณนะ
+2025-08-14 20:04:39,195 - yuki_ai - INFO - Using LLM for command: ขอบคุณนะ
+2025-08-14 20:04:39,201 - yuki_ai - INFO - LLM Conversation - User: ขอบคุณนะ
+2025-08-14 20:04:39,201 - yuki_ai - INFO - LLM Conversation - Yuki: ยินดีค่ะ ยูกิยินดีช่วยเหลือคุณเสมอ!
+2025-08-14 20:04:44,245 - yuki_ai - INFO - Performance - Text-to-speech: 5.04s
+2025-08-14 20:04:44,245 - yuki_ai - INFO - AI Response: ยินดีค่ะ ยูกิยินดีช่วยเหลือคุณเสมอ!
+2025-08-14 20:04:51,284 - yuki_ai - INFO - Performance - Speech recognition: 1.40s
+2025-08-14 20:04:51,284 - yuki_ai - INFO - Command from user: แอร์ยูกิตอนนี้กี่โมงแล้ว
+2025-08-14 20:04:51,285 - yuki_ai - ERROR - Error in text-to-speech: No text to send to TTS API
+2025-08-14 20:04:59,451 - yuki_ai - INFO - Performance - Speech recognition: 1.34s
+2025-08-14 20:04:59,451 - yuki_ai - INFO - Command from user: ยูกิตอนนี้กี่โมงแล้ว
+2025-08-14 20:05:06,117 - yuki_ai - INFO - Performance - Text-to-speech: 6.67s
+2025-08-14 20:05:06,118 - yuki_ai - INFO - AI Response: ขณะนี้เวลา 20 นาฬิกา 4 นาที 59 วินาที
+2025-08-14 20:05:13,276 - yuki_ai - INFO - Performance - Speech recognition: 1.32s
+2025-08-14 20:05:13,277 - yuki_ai - INFO - Command from user: ยูกิวันนี้วันอะไร
+2025-08-14 20:05:13,277 - yuki_ai - INFO - Using LLM for command: วันนี้วันอะไร
+2025-08-14 20:05:13,281 - yuki_ai - INFO - LLM Conversation - User: วันนี้วันอะไร
+2025-08-14 20:05:13,281 - yuki_ai - INFO - LLM Conversation - Yuki: ขออภัยค่ะ ยูกิยังไม่เข้าใจคำถามนี้ แต่ยูกิสามารถช่วยคุณเปิดแอปพลิเคชัน เปิดเว็บไซต์ หรือเล่นเพลงได้ค่ะ
+2025-08-14 20:05:26,298 - yuki_ai - INFO - Performance - Text-to-speech: 13.02s
+2025-08-14 20:05:26,299 - yuki_ai - INFO - AI Response: ขออภัยค่ะ ยูกิยังไม่เข้าใจคำถามนี้ แต่ยูกิสามารถช่วยคุณเปิดแอปพลิเคชัน เปิดเว็บไซต์ หรือเล่นเพลงได้ค่ะ
+2025-08-14 20:05:54,543 - yuki_ai - INFO - Performance - Speech recognition: 1.28s
+2025-08-14 20:05:54,544 - yuki_ai - INFO - Command from user: ยูกิเล่าเรื่องประเทศลาวให้ฟังหน่อย
+2025-08-14 20:05:54,545 - yuki_ai - INFO - Using LLM for command: เล่าเรื่องประเทศลาวให้ฟังหน่อย
+2025-08-14 20:05:54,551 - yuki_ai - INFO - LLM Conversation - User: เล่าเรื่องประเทศลาวให้ฟังหน่อย
+2025-08-14 20:05:54,551 - yuki_ai - INFO - LLM Conversation - Yuki: ขออภัยค่ะ ยูกิยังไม่เข้าใจคำถามนี้ แต่ยูกิสามารถช่วยคุณเปิดแอปพลิเคชัน เปิดเว็บไซต์ หรือเล่นเพลงได้ค่ะ
+2025-08-14 20:06:07,759 - yuki_ai - INFO - Performance - Text-to-speech: 13.21s
+2025-08-14 20:06:07,760 - yuki_ai - INFO - AI Response: ขออภัยค่ะ ยูกิยังไม่เข้าใจคำถามนี้ แต่ยูกิสามารถช่วยคุณเปิดแอปพลิเคชัน เปิดเว็บไซต์ หรือเล่นเพลงได้ค่ะ
+2025-08-14 20:06:16,063 - yuki_ai - INFO - Received signal 2
+2025-08-14 20:06:16,064 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 20:06:16,064 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 20:06:21,126 - yuki_ai - INFO - Performance - Text-to-speech: 5.06s
+2025-08-14 20:06:21,126 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 20:06:21,128 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 20:08:48,458 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:09:26,004 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:10:08,679 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:10:41,691 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:10:57,291 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:10:57,292 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:10:57,293 - yuki_ai - INFO - Loaded 59 commands from src/data/commands.json
+2025-08-14 20:10:57,293 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:10:57,293 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:10:57,295 - yuki_ai - INFO - Using LLM for command: วันนี้วันอะไร
+2025-08-14 20:10:57,626 - yuki_ai - INFO - LLM Conversation - User: วันนี้วันอะไร
+2025-08-14 20:10:57,626 - yuki_ai - INFO - LLM Conversation - Yuki: วันนี้คือวันเสาร์ครับ คุณรู้สึกดีไหม?
+2025-08-14 20:10:57,627 - yuki_ai - INFO - Using LLM for command: เล่าเรื่องประเทศลาวให้ฟังหน่อย
+2025-08-14 20:10:58,609 - yuki_ai - INFO - LLM Conversation - User: เล่าเรื่องประเทศลาวให้ฟังหน่อย
+2025-08-14 20:10:58,610 - yuki_ai - INFO - LLM Conversation - Yuki: ประเทศลาวมีประวัติศาสตร์ที่ยาวนาน ว่าสงครามอัซซาลัมมะกัน (1992-1997) ทำให้มีการย้ายถิ่นฐานชาวต่างชาติออกไปอย่างมาก แต่ในปัจจุบันประเทศกำลังพัฒนาและเติบโตอย่างรวดเร็ว
+2025-08-14 20:10:58,610 - yuki_ai - INFO - Using LLM for command: แนะนำอาหารไทยอร่อยๆ
+2025-08-14 20:10:59,237 - yuki_ai - INFO - LLM Conversation - User: แนะนำอาหารไทยอร่อยๆ
+2025-08-14 20:10:59,238 - yuki_ai - INFO - LLM Conversation - Yuki: แกงป่า ผัดเผ็ด, ลาบ, และยำกุ้ง กับข้าวเหนียวมะเขือเทศ เป็นอาหารไทยที่อร่อยมากนะครับ!
+2025-08-14 20:12:09,177 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 20:12:09,181 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:12:09,181 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:12:09,182 - yuki_ai - INFO - Loaded 59 commands from src/data/commands.json
+2025-08-14 20:12:09,182 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:12:09,182 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:12:09,182 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 20:12:09,182 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 20:12:16,256 - yuki_ai - INFO - Performance - Text-to-speech: 7.07s
+2025-08-14 20:12:16,256 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 20:12:16,363 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 20:12:17,476 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 20:12:25,201 - yuki_ai - INFO - Performance - Speech recognition: 0.88s
+2025-08-14 20:12:25,202 - yuki_ai - INFO - Command from user: ยูกิวันนี้วันอะไร
+2025-08-14 20:12:25,205 - yuki_ai - INFO - Using LLM for command: วันนี้วันอะไร
+2025-08-14 20:12:25,403 - yuki_ai - INFO - LLM Conversation - User: วันนี้วันอะไร
+2025-08-14 20:12:25,403 - yuki_ai - INFO - LLM Conversation - Yuki: วันนี้คือวันอาทิตย์ครับ
+2025-08-14 20:12:28,385 - yuki_ai - INFO - Performance - Text-to-speech: 2.98s
+2025-08-14 20:12:28,385 - yuki_ai - INFO - AI Response: วันนี้คือวันอาทิตย์ครับ
+2025-08-14 20:12:38,115 - yuki_ai - INFO - Performance - Speech recognition: 1.39s
+2025-08-14 20:12:38,115 - yuki_ai - INFO - Command from user: ยูกิเล่าเรื่องประเทศลาวให้ฟังหน่อย
+2025-08-14 20:12:38,116 - yuki_ai - INFO - Using LLM for command: เล่าเรื่องประเทศลาวให้ฟังหน่อย
+2025-08-14 20:12:38,803 - yuki_ai - INFO - LLM Conversation - User: เล่าเรื่องประเทศลาวให้ฟังหน่อย
+2025-08-14 20:12:38,804 - yuki_ai - INFO - LLM Conversation - Yuki: ประเทศลาวมีประวัติศาสตร์ที่ยาวนาน 4,000 ปี มีประชากรประมาณ 7 ล้านคน รัฐธรรมนูญของประเทศลาวถูกยกเลิกไปแล้ว แต่ยังมีการจัดตั้งรัฐบาลใหม่ในปี ค.ศ. 2006
+2025-08-14 20:13:00,440 - yuki_ai - INFO - Performance - Text-to-speech: 21.64s
+2025-08-14 20:13:00,441 - yuki_ai - INFO - AI Response: ประเทศลาวมีประวัติศาสตร์ที่ยาวนาน 4,000 ปี มีประชากรประมาณ 7 ล้านคน รัฐธรรมนูญของประเทศลาวถูกยกเลิกไปแล้ว แต่ยังมีการจัดตั้งรัฐบาลใหม่ในปี ค.ศ. 2006
+2025-08-14 20:13:10,913 - yuki_ai - INFO - Performance - Speech recognition: 1.70s
+2025-08-14 20:13:10,913 - yuki_ai - INFO - Command from user: ยูกิแนะนำอาหารประเทศลาวหน่อย
+2025-08-14 20:13:10,913 - yuki_ai - INFO - Using LLM for command: แนะนำอาหารประเทศลาวหน่อย
+2025-08-14 20:13:11,283 - yuki_ai - INFO - LLM Conversation - User: แนะนำอาหารประเทศลาวหน่อย
+2025-08-14 20:13:11,283 - yuki_ai - INFO - LLM Conversation - Yuki: อาหารไทย-ลาว เช่น ปูเผา, ต้มป่า, ผักหวานที่มีรสชาติเผ้
+2025-08-14 20:13:20,147 - yuki_ai - INFO - Performance - Text-to-speech: 8.86s
+2025-08-14 20:13:20,148 - yuki_ai - INFO - AI Response: อาหารไทย-ลาว เช่น ปูเผา, ต้มป่า, ผักหวานที่มีรสชาติเผ้
+2025-08-14 20:13:28,816 - yuki_ai - INFO - Performance - Speech recognition: 1.25s
+2025-08-14 20:13:28,816 - yuki_ai - INFO - Command from user: ยูกิแนะนำอาหารไทยหน่อย
+2025-08-14 20:13:28,817 - yuki_ai - INFO - Using LLM for command: แนะนำอาหารไทยหน่อย
+2025-08-14 20:13:29,176 - yuki_ai - INFO - LLM Conversation - User: แนะนำอาหารไทยหน่อย
+2025-08-14 20:13:29,177 - yuki_ai - INFO - LLM Conversation - Yuki: ผัดจืด, ข้าวเหนียวมะนาว, ก๋วยเตี๋ยว, แกงเขียวหวาน
+2025-08-14 20:13:35,968 - yuki_ai - INFO - Performance - Text-to-speech: 6.79s
+2025-08-14 20:13:35,968 - yuki_ai - INFO - AI Response: ผัดจืด, ข้าวเหนียวมะนาว, ก๋วยเตี๋ยว, แกงเขียวหวาน
+2025-08-14 20:13:42,320 - yuki_ai - INFO - Performance - Speech recognition: 0.95s
+2025-08-14 20:13:42,321 - yuki_ai - INFO - Command from user: ยูกิพรุ่งนี้วันอะไร
+2025-08-14 20:13:42,322 - yuki_ai - INFO - Using LLM for command: พรุ่งนี้วันอะไร
+2025-08-14 20:13:42,525 - yuki_ai - INFO - LLM Conversation - User: พรุ่งนี้วันอะไร
+2025-08-14 20:13:42,525 - yuki_ai - INFO - LLM Conversation - Yuki: พรุ่งนี้คือวันอังคาร
+2025-08-14 20:13:45,819 - yuki_ai - INFO - Performance - Text-to-speech: 3.29s
+2025-08-14 20:13:45,820 - yuki_ai - INFO - AI Response: พรุ่งนี้คือวันอังคาร
+2025-08-14 20:14:06,027 - yuki_ai - INFO - Performance - Speech recognition: 2.22s
+2025-08-14 20:14:06,028 - yuki_ai - INFO - Command from user: ยูกิประชากรของประเทศ
+2025-08-14 20:14:06,028 - yuki_ai - INFO - Using LLM for command: ประชากรของประเทศ
+2025-08-14 20:14:06,282 - yuki_ai - INFO - LLM Conversation - User: ประชากรของประเทศ
+2025-08-14 20:14:06,282 - yuki_ai - INFO - LLM Conversation - Yuki: ประเทศลาวมีประชากรประมาณ 7 ล้านคน
+2025-08-14 20:14:11,777 - yuki_ai - INFO - Performance - Text-to-speech: 5.49s
+2025-08-14 20:14:11,778 - yuki_ai - INFO - AI Response: ประเทศลาวมีประชากรประมาณ 7 ล้านคน
+2025-08-14 20:14:21,989 - yuki_ai - INFO - Performance - Speech recognition: 1.87s
+2025-08-14 20:14:21,990 - yuki_ai - INFO - Command from user: ยูกิประชากรของประเทศสหรัฐอเมริกามีกี่คน
+2025-08-14 20:14:21,990 - yuki_ai - INFO - Using LLM for command: ประชากรของประเทศสหรัฐอเมริกามีกี่คน
+2025-08-14 20:14:22,351 - yuki_ai - INFO - LLM Conversation - User: ประชากรของประเทศสหรัฐอเมริกามีกี่คน
+2025-08-14 20:14:22,351 - yuki_ai - INFO - LLM Conversation - Yuki: ประชากรสหรัฐอเมริกาคือประมาณ 331 ล้านคน
+2025-08-14 20:14:29,838 - yuki_ai - INFO - Performance - Text-to-speech: 7.49s
+2025-08-14 20:14:29,838 - yuki_ai - INFO - AI Response: ประชากรสหรัฐอเมริกาคือประมาณ 331 ล้านคน
+2025-08-14 20:14:43,503 - yuki_ai - INFO - Performance - Speech recognition: 2.44s
+2025-08-14 20:14:43,503 - yuki_ai - INFO - Command from user: ถ้าฉันจะทำ Project object detection นายคิดว่าฉันควรทำโปรเจคเกี่ยวกับอะไรดี
+2025-08-14 20:14:43,505 - yuki_ai - ERROR - Error in text-to-speech: No text to send to TTS API
+2025-08-14 20:14:58,208 - yuki_ai - INFO - Performance - Speech recognition: 2.67s
+2025-08-14 20:14:58,208 - yuki_ai - INFO - Command from user: ยูกิถ้าฉันจะทำโปรเจค object detection นายคิดว่าฉันควรทำโปรเจคเกี่ยวกับอะไรดี
+2025-08-14 20:14:58,208 - yuki_ai - INFO - Using LLM for command: ถ้าฉันจะทำโปรเจค object detection นายคิดว่าฉันควรทำโปรเจคเกี่ยวกับอะไรดี
+2025-08-14 20:14:58,533 - yuki_ai - INFO - LLM Conversation - User: ถ้าฉันจะทำโปรเจค object detection นายคิดว่าฉันควรทำโปรเจคเกี่ยวกับอะไรดี
+2025-08-14 20:14:58,534 - yuki_ai - INFO - LLM Conversation - Yuki: โปรเจกต่อการวิเคราะห์ภาพส่วนตัวได้
+2025-08-14 20:15:02,739 - yuki_ai - INFO - Performance - Text-to-speech: 4.20s
+2025-08-14 20:15:02,740 - yuki_ai - INFO - AI Response: โปรเจกต่อการวิเคราะห์ภาพส่วนตัวได้
+2025-08-14 20:15:19,268 - yuki_ai - INFO - Performance - Speech recognition: 2.15s
+2025-08-14 20:15:19,269 - yuki_ai - INFO - Command from user: ยูกิถ้าฉันอยากทำเว็บฉันควรเริ่มด้วยภาษาอะไร
+2025-08-14 20:15:19,269 - yuki_ai - INFO - Using LLM for command: ถ้าฉันอยากทำเว็บฉันควรเริ่มด้วยภาษาอะไร
+2025-08-14 20:15:19,582 - yuki_ai - INFO - LLM Conversation - User: ถ้าฉันอยากทำเว็บฉันควรเริ่มด้วยภาษาอะไร
+2025-08-14 20:15:19,583 - yuki_ai - INFO - LLM Conversation - Yuki: เริ่มต้นด้วย HTML, CSS, JavaScript และ Bootstrap
+2025-08-14 20:15:27,840 - yuki_ai - INFO - Performance - Text-to-speech: 8.26s
+2025-08-14 20:15:27,840 - yuki_ai - INFO - AI Response: เริ่มต้นด้วย HTML, CSS, JavaScript และ Bootstrap
+2025-08-14 20:15:55,597 - yuki_ai - INFO - Performance - Speech recognition: 1.08s
+2025-08-14 20:15:55,599 - yuki_ai - INFO - Command from user: ยูกิ
+2025-08-14 20:15:58,799 - yuki_ai - INFO - Performance - Text-to-speech: 3.20s
+2025-08-14 20:15:58,800 - yuki_ai - INFO - AI Response: ค่ะ ยูกิอยู่นี่ค่ะ
+2025-08-14 20:16:09,992 - yuki_ai - INFO - Performance - Speech recognition: 1.44s
+2025-08-14 20:16:09,993 - yuki_ai - INFO - Command from user: ยูกิเลย์มีกี่รสชาติ
+2025-08-14 20:16:09,993 - yuki_ai - INFO - Using LLM for command: เลย์มีกี่รสชาติ
+2025-08-14 20:16:10,412 - yuki_ai - INFO - LLM Conversation - User: เลย์มีกี่รสชาติ
+2025-08-14 20:16:10,413 - yuki_ai - INFO - LLM Conversation - Yuki: มีหลายรสชาติ แต่แนะนำใช้ React และ Node.js เป็นตัวเลือกที่ดี
+2025-08-14 20:16:18,257 - yuki_ai - INFO - Performance - Text-to-speech: 7.84s
+2025-08-14 20:16:18,257 - yuki_ai - INFO - AI Response: มีหลายรสชาติ แต่แนะนำใช้ React และ Node.js เป็นตัวเลือกที่ดี
+2025-08-14 20:16:36,779 - yuki_ai - INFO - Performance - Speech recognition: 5.25s
+2025-08-14 20:16:36,779 - yuki_ai - INFO - Command from user: ยูกินายรู้จักขนมเลย์ไหมแล้วขนมเลย์มันมีกี่รสชาติ
+2025-08-14 20:16:36,780 - yuki_ai - INFO - Using LLM for command: นายรู้จักขนมเลย์ไหมแล้วขนมเลย์มันมีกี่รสชาติ
+2025-08-14 20:16:37,152 - yuki_ai - INFO - LLM Conversation - User: นายรู้จักขนมเลย์ไหมแล้วขนมเลย์มันมีกี่รสชาติ
+2025-08-14 20:16:37,153 - yuki_ai - INFO - LLM Conversation - Yuki: ฉันไม่รู้จักขนมเลย์ แต่ละประเทศมีขนมมากมาย
+2025-08-14 20:16:43,223 - yuki_ai - INFO - Performance - Text-to-speech: 6.07s
+2025-08-14 20:16:43,223 - yuki_ai - INFO - AI Response: ฉันไม่รู้จักขนมเลย์ แต่ละประเทศมีขนมมากมาย
+2025-08-14 20:16:54,276 - yuki_ai - INFO - Performance - Speech recognition: 1.76s
+2025-08-14 20:16:54,276 - yuki_ai - INFO - Command from user: ยูกิลืมสิ่งที่เราคุยกันมาก่อนหน้านี้ได้ไหม
+2025-08-14 20:16:54,277 - yuki_ai - INFO - Using LLM for command: ลืมสิ่งที่เราคุยกันมาก่อนหน้านี้ได้ไหม
+2025-08-14 20:16:54,684 - yuki_ai - INFO - LLM Conversation - User: ลืมสิ่งที่เราคุยกันมาก่อนหน้านี้ได้ไหม
+2025-08-14 20:16:54,684 - yuki_ai - INFO - LLM Conversation - Yuki: โปรเจกต่อการวิเคราะห์ภาพส่วนตัว, เว็บด้วย React และ Node.js
+2025-08-14 20:17:02,426 - yuki_ai - INFO - Performance - Text-to-speech: 7.74s
+2025-08-14 20:17:02,426 - yuki_ai - INFO - AI Response: โปรเจกต่อการวิเคราะห์ภาพส่วนตัว, เว็บด้วย React และ Node.js
+2025-08-14 20:17:10,840 - yuki_ai - INFO - Performance - Speech recognition: 1.15s
+2025-08-14 20:17:10,840 - yuki_ai - INFO - Command from user: ยูกิเปิด YouTube
+2025-08-14 20:17:10,841 - yuki_ai - INFO - Using LLM for command: เปิด youtube
+2025-08-14 20:17:11,118 - yuki_ai - INFO - LLM Conversation - User: เปิด youtube
+2025-08-14 20:17:11,119 - yuki_ai - INFO - LLM Conversation - Yuki: https://www.youtube.com/
+2025-08-14 20:17:19,702 - yuki_ai - INFO - Performance - Text-to-speech: 8.58s
+2025-08-14 20:17:19,703 - yuki_ai - INFO - AI Response: https://www.youtube.com/
+2025-08-14 20:17:49,077 - yuki_ai - INFO - Received signal 2
+2025-08-14 20:17:49,077 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 20:17:49,077 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 20:17:54,104 - yuki_ai - INFO - Performance - Text-to-speech: 5.03s
+2025-08-14 20:17:54,104 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 20:17:54,105 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 20:17:57,145 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 20:17:57,147 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:17:57,147 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:17:57,148 - yuki_ai - INFO - Loaded 59 commands from src/data/commands.json
+2025-08-14 20:17:57,148 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:17:57,148 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:17:57,148 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 20:17:57,148 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 20:18:04,211 - yuki_ai - INFO - Performance - Text-to-speech: 7.06s
+2025-08-14 20:18:04,212 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 20:18:04,313 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 20:18:05,419 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 20:18:16,027 - yuki_ai - INFO - Performance - Speech recognition: 5.24s
+2025-08-14 20:18:16,027 - yuki_ai - INFO - Command from user: ยูกิเข้าเว็บ youtube
+2025-08-14 20:18:16,030 - yuki_ai - INFO - Command 'เข้าเว็บ youtube' matched pattern 'เข้าเว็บ youtube' with action 'open_youtube'
+2025-08-14 20:18:18,870 - yuki_ai - INFO - Performance - Text-to-speech: 2.84s
+2025-08-14 20:18:18,870 - yuki_ai - INFO - AI Response: open_youtube
+2025-08-14 20:18:29,178 - yuki_ai - INFO - Received signal 2
+2025-08-14 20:18:29,178 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 20:18:29,178 - yuki_ai - INFO - Stopped listening for voice commands
+2025-08-14 20:18:34,158 - yuki_ai - INFO - Performance - Text-to-speech: 4.98s
+2025-08-14 20:18:34,158 - yuki_ai - INFO - AI Response: ยูกิปิดตัวลงแล้วค่ะ ขอบคุณที่ใช้งาน
+2025-08-14 20:18:34,159 - yuki_ai - INFO - Yuki AI stopped
+2025-08-14 20:20:35,662 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:20:35,662 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:20:35,663 - yuki_ai - INFO - Loaded 59 commands from src/data/commands.json
+2025-08-14 20:20:35,663 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:20:35,663 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:20:35,664 - yuki_ai - INFO - Command 'เข้าเว็บ youtube' matched pattern 'เข้าเว็บ youtube' with action 'open_youtube'
+2025-08-14 20:20:35,807 - yuki_ai - INFO - Command 'เปิดเว็บ google' matched pattern 'เปิดเว็บ google' with action 'open_google'
+2025-08-14 20:20:47,210 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:20:47,211 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:20:47,211 - yuki_ai - INFO - Loaded 59 commands from src/data/commands.json
+2025-08-14 20:20:47,211 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:20:47,211 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:21:08,128 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:21:08,128 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:21:08,129 - yuki_ai - INFO - Loaded 59 commands from src/data/commands.json
+2025-08-14 20:21:08,129 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:21:08,129 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:21:08,130 - yuki_ai - INFO - Command 'เปิดเว็บ youtube' matched pattern 'เปิดเว็บ youtube' with action 'open_youtube'
+2025-08-14 20:21:08,250 - yuki_ai - INFO - Command 'เปิดเว็บ google' matched pattern 'เปิดเว็บ google' with action 'open_google'
+2025-08-14 20:21:08,476 - yuki_ai - INFO - Using LLM for command: วันนี้วันอะไร
+2025-08-14 20:21:09,292 - yuki_ai - INFO - LLM Conversation - User: วันนี้วันอะไร
+2025-08-14 20:21:09,292 - yuki_ai - INFO - LLM Conversation - Yuki: วันนี้คือวันอาทิตย์ (Sunday) ค่ะ
+2025-08-14 20:21:09,292 - yuki_ai - INFO - Command 'กี่โมงแล้ว' matched pattern 'กี่โมงแล้ว' with action 'time'
+2025-08-14 20:21:33,773 - yuki_ai - INFO - Voice engine initialized
+2025-08-14 20:21:33,779 - yuki_ai - INFO - LLM Engine initialized with model: llama3.2:1b
+2025-08-14 20:21:33,779 - yuki_ai - INFO - LLM engine imported successfully
+2025-08-14 20:21:33,779 - yuki_ai - INFO - Loaded 59 commands from src/data/commands.json
+2025-08-14 20:21:33,780 - yuki_ai - INFO - Loaded 20 response templates from src/data/responses.json
+2025-08-14 20:21:33,780 - yuki_ai - INFO - Command processor initialized
+2025-08-14 20:21:33,780 - yuki_ai - INFO - Yuki AI initialized
+2025-08-14 20:21:33,780 - yuki_ai - INFO - Starting Yuki AI
+2025-08-14 20:21:41,127 - yuki_ai - INFO - Performance - Text-to-speech: 7.35s
+2025-08-14 20:21:41,128 - yuki_ai - INFO - AI Response: ยูกิพร้อมใช้งานแล้วค่ะ เรียกชื่อยูกิเพื่อเริ่มต้นใช้งาน
+2025-08-14 20:21:41,230 - yuki_ai - INFO - Adjusting for ambient noise...
+2025-08-14 20:21:42,346 - yuki_ai - INFO - Started listening for voice commands
+2025-08-14 20:21:48,427 - yuki_ai - INFO - Performance - Speech recognition: 1.17s
+2025-08-14 20:21:48,428 - yuki_ai - INFO - Command from user: ยูกิ help
+2025-08-14 20:21:48,432 - yuki_ai - INFO - Using LLM for command: help
+2025-08-14 20:21:48,698 - yuki_ai - INFO - LLM Conversation - User: help
+2025-08-14 20:21:48,699 - yuki_ai - INFO - LLM Conversation - Yuki: ค่ะ คุณต้องการความช่วยเหลือหรือไม่?
+2025-08-14 20:21:53,406 - yuki_ai - INFO - Performance - Text-to-speech: 4.71s
+2025-08-14 20:21:53,406 - yuki_ai - INFO - AI Response: ค่ะ คุณต้องการความช่วยเหลือหรือไม่?
+2025-08-14 20:22:01,224 - yuki_ai - INFO - Performance - Speech recognition: 1.37s
+2025-08-14 20:22:01,224 - yuki_ai - INFO - Command from user: ยูกิเปิด YouTube
+2025-08-14 20:22:01,225 - yuki_ai - INFO - Using LLM for command: เปิด youtube
+2025-08-14 20:22:01,407 - yuki_ai - INFO - LLM Conversation - User: เปิด youtube
+2025-08-14 20:22:01,408 - yuki_ai - INFO - LLM Conversation - Yuki: ปิด YouTube แล้วนะครับ
+2025-08-14 20:22:04,223 - yuki_ai - INFO - Performance - Text-to-speech: 2.82s
+2025-08-14 20:22:04,224 - yuki_ai - INFO - AI Response: ปิด YouTube แล้วนะครับ
+2025-08-14 20:22:14,069 - yuki_ai - INFO - Performance - Speech recognition: 1.11s
+2025-08-14 20:22:14,070 - yuki_ai - INFO - Command from user: ยูกิเข้าเว็บ youtube
+2025-08-14 20:22:14,070 - yuki_ai - INFO - Command 'เข้าเว็บ youtube' matched pattern 'เข้าเว็บ youtube' with action 'open_youtube'
+2025-08-14 20:22:16,959 - yuki_ai - INFO - Performance - Text-to-speech: 2.76s
+2025-08-14 20:22:16,959 - yuki_ai - INFO - AI Response: เปิด YouTube แล้วค่ะ
+2025-08-14 20:22:42,877 - yuki_ai - INFO - Performance - Speech recognition: 4.51s
+2025-08-14 20:22:42,879 - yuki_ai - INFO - Command from user: ยูกิ Open Application Safari
+2025-08-14 20:22:45,791 - yuki_ai - INFO - Performance - Text-to-speech: 2.90s
+2025-08-14 20:22:45,792 - yuki_ai - INFO - AI Response: เปิด safari แล้วค่ะ
+2025-08-14 20:23:28,059 - yuki_ai - INFO - Performance - Speech recognition: 1.03s
+2025-08-14 20:23:28,061 - yuki_ai - INFO - Command from user: ยูกิเข้าเว็บ Facebook
+2025-08-14 20:23:28,061 - yuki_ai - INFO - Command 'เข้าเว็บ facebook' matched pattern 'เข้าเว็บ facebook' with action 'open_facebook'
+2025-08-14 20:23:30,828 - yuki_ai - INFO - Performance - Text-to-speech: 2.65s
+2025-08-14 20:23:30,828 - yuki_ai - INFO - AI Response: เปิด Facebook แล้วค่ะ
+2025-08-14 20:23:46,858 - yuki_ai - INFO - Performance - Speech recognition: 1.77s
+2025-08-14 20:23:46,858 - yuki_ai - INFO - Command from user: ยูกิเล่นเพลงของจีเอ็มเอ็ม
+2025-08-14 20:23:53,422 - yuki_ai - INFO - Performance - Text-to-speech: 4.51s
+2025-08-14 20:23:53,422 - yuki_ai - INFO - AI Response: เล่น ของจีเอ็มเอ็ม บน YouTube แล้วค่ะ
+2025-08-14 20:24:08,184 - yuki_ai - INFO - Performance - Speech recognition: 2.94s
+2025-08-14 20:24:08,185 - yuki_ai - INFO - Command from user: ยูกิค้นหาว่าช้างในประเทศไทย
+2025-08-14 20:24:08,185 - yuki_ai - INFO - Command 'ค้นหาว่าช้างในประเทศไทย' matched pattern 'ค้นหา' with action 'search'
+2025-08-14 20:24:09,474 - yuki_ai - INFO - Performance - Text-to-speech: 1.29s
+2025-08-14 20:24:09,474 - yuki_ai - INFO - AI Response: search
+2025-08-14 20:24:26,103 - yuki_ai - INFO - Performance - Speech recognition: 1.02s
+2025-08-14 20:24:26,104 - yuki_ai - INFO - Command from user: UK Shutdown
+2025-08-14 20:24:26,105 - yuki_ai - ERROR - Error in text-to-speech: No text to send to TTS API
+2025-08-14 20:24:30,347 - yuki_ai - INFO - Received signal 2
+2025-08-14 20:24:30,347 - yuki_ai - INFO - Stopping Yuki AI
+2025-08-14 20:24:30,347 - yuki_ai - INFO - Stopped listening for voice commands
